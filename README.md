@@ -1,8 +1,8 @@
 # Oi, eu sou o Luis Eduardo 👋
 
-🎓 Estudante de [seu curso] na [sua universidade]  
+🎓 Estudante de Ciencia de dados  na Universiade IESB 
 💼 Buscando estágio em **Dados / Backend / ML**  
-📍 Brasília-DF (ou sua cidade)
+📍 Brasília-DF
 
 ## Sobre mim
 Sou interessado em construir soluções com dados e programação.
