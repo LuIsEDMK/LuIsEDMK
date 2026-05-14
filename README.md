@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o **Luis Eduardo**
+#  Olá, eu sou o **Luis Eduardo**
 
 [![Portfolio](https://img.shields.io/badge/🔗_VER_PORTFÓLIO-0f172a?style=for-the-badge&logo=firefox&logoColor=white&labelColor=06b6d4)](https://luisedmk.github.io/portfolio/)
 
